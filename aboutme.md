@@ -9,7 +9,6 @@ My name is **Marco Melilli** and I'm a web and mobile **developer** with 4+ year
 
 ## career
 I'm currently a **web developer** and Technology Consultant at **HPE** in Italy. I previously worked on **Avanade** as hybrid mobile app developer, and web developer.
-<span class="fa fa-briefcase about-icon"></span>
 
 ## projects
 I enjoy **learn** and study all the new technologies, for this reason I'm always working on many little projects like **mobile apps** and **home automation**.
