@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: and why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Marco Melilli and I'm a web and mobile developer with 4+ years of experience
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### career
+I'm currently a frontend developer and Technology Consultant at HPE in Italy. I previously worked on Avanade as hybrid mobile app developer, and web developer.
 
-What else do you need?
+## projects
+I enjoy learn and study all the new technologies, for this reason I'm always working on many little projects like mobile apps and home automation.
+I'm the co-creator of https://big-bench.com and you can find my open source projects on my project sections or on my github.
 
-### my history
+### studies
+Obtained my Bachelor of Computer Science from the University of Palermo, Italy. My thesis project involved developing a tracking system with low cost sensors (inertial measurement unit).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## life
+Grew up and studied in Palermo, Italy; I lived for a while in A Coruna (Spain) for the Erasmus projects during my univesity years an finally moved to Milan to work in 2015.
+I love travel, play chess and meeting new people :)
+
+## contact
+
