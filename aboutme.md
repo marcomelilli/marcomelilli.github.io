@@ -19,7 +19,7 @@ Obtained my **Bachelor of Computer Science** from the _University of Palermo_ , 
 
 ## life
 Grew up and studied in **Palermo**, Italy; I lived for a while in **A Coruna** (Spain) for the Erasmus projects during my univesity years an finally moved to **Milan** to work in 2015.
-I love travel, play chess and meeting new people :)
+I love travel, play chess and meeting new people!
 
 ## contact
 You can [email me](mail:marcomelilli92@hotmail.it) or find me on [Twitter](https://twitter.com/melilli_marco) if you want to get in touch :)
