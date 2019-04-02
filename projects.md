@@ -11,8 +11,10 @@ It can be used as base of a nestjs project: it implements API for login/registra
 <br><br>
 
 ## HomeAssistant
-I started to develop a homeautomation system for my home using a raspberry and [Homeassistant](https://www.home-assistant.io/) . 
+I started to develop a homeautomation system for my home using a raspberry and [Homeassistant](https://www.home-assistant.io/). 
+
 ![image1.png](https://raw.githubusercontent.com/marcomelilli/homeassistant-config/master/www/screenshots/image1.png)
+
 This is my [configuration](https://github.com/marcomelilli/homeassistant-config)
 
 <br><br>
@@ -22,6 +24,7 @@ This project is an implementation in javascript of the algorithm [minimax](https
 
 ![game screenshot](https://github.com/marcomelilli/four-in-a-row-js-minimax/raw/master/img/game-screen.png)
 It uses [EaselJs](https://www.createjs.com/easeljs) for drawing the board, as support for working with the HTML5 Canvas element.
+
 You can find the project [here](https://github.com/marcomelilli/four-in-a-row-js-minimax) and a [live demo](http://connectfour.marcomelilli.com)!
 
 
