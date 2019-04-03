@@ -1,3 +1,13 @@
+---
+layout: post
+title: How to setup a firewall with UFW on Debian
+subtitle: 
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [firewall, ufw, debian, security, vps]
+comments: true
+---
+
 **Uncomplicated Firewall** (ufw) is a tool for managing firewall designed to be easy to use. It uses a command-line interface and uses **iptables** for configuration.
 
 
