@@ -11,9 +11,8 @@ gh-badge:
   - follow
 tags:
   - encryption
-  - bcrypt
+  - security
   - hash
-  - crypto
 comments: true
 ---
 In my projects I essentially found useful two ways to encrypt strings: **hash functions** one-way and one-way and **encryption-decryption** two-way :
