@@ -40,7 +40,7 @@ At user login to compare password with the one stored in the db you can use:
 
     bcrypt.compare(plaintextPassToCheck, hashStoredInDB).then(function(res) {
       // res == true/false
-  });
+    });
   
 More info: [github.com/kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js)
 
