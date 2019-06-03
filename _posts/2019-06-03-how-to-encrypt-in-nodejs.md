@@ -4,6 +4,17 @@ published: true
 title: How to encrypt strings in nodejs
 subtitle: Two ways to encrypt strings in nodeJs
 date: '2019-06-03'
+gh-repo: daattali/beautiful-jekyll
+gh-badge:
+  - star
+  - fork
+  - follow
+tags:
+  - encryption
+  - bcrypt
+  - hash
+  - crypto
+comments: true
 ---
 In my projects I essentially found useful two ways to encrypt strings: **hash functions** one-way and one-way and **encryption-decryption** two-way :
 
