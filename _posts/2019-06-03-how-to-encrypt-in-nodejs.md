@@ -18,7 +18,7 @@ comments: true
 ---
 In my projects I essentially found useful two ways to encrypt strings: **hash functions** one-way and one-way and **encryption-decryption** two-way :
 
-## Hash functions with Bcrypt
+## 1. Hash functions with Bcrypt
 
 Hash functions are essentials for store encrypted password, and the best library for nodejs is **Bcrypt**. You can find more information in this article: [why use Bcrypt?](https://codahale.com/how-to-safely-store-a-password/).
 
@@ -42,9 +42,10 @@ At user login to compare password with the one stored in the db you can use:
       // res == true/false
   });
   
-More info: https://github.com/kelektiv/node.bcrypt.js
+More info: [github.com/kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js)
 
-## Simple Encryption and Decryption
+
+## 2. Simple Encryption and Decryption
 
 In other scenarios I needed to crypt strings in order to hide texts  to users but in a way that permits me to decrypt and retrieve the original content. In this case a fast tool is **Crypto**.
 
@@ -64,4 +65,4 @@ In other scenarios I needed to crypt strings in order to hide texts  to users bu
       return dec; //myPlainText
     }
 
-More info: https://nodejs.org/api/crypto.html
+More info: [nodejs.org/api/crypto](https://nodejs.org/api/crypto.html)
