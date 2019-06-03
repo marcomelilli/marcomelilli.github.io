@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: How to encrypt in nodejs
+published: true
+title: How to encrypt strings in nodejs
 subtitle: Two ways to encrypt strings in nodeJs
 date: '2019-06-03'
 ---
