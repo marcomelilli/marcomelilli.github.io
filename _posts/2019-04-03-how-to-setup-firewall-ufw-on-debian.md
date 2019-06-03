@@ -8,7 +8,6 @@ gh-badge:
   - follow
 tags:
   - firewall
-  - ufw
   - debian
   - security
   - vps
