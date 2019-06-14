@@ -1,10 +1,8 @@
 ---
 layout: post
 title: How to setup a firewall with UFW on Debian
-gh-repo: daattali/beautiful-jekyll
+gh-repo: marcomelilli
 gh-badge:
-  - star
-  - fork
   - follow
 tags:
   - firewall
