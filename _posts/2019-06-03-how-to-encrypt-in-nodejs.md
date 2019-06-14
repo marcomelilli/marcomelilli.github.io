@@ -4,10 +4,8 @@ published: true
 title: How to encrypt strings in nodejs
 subtitle: Two ways to encrypt strings in nodeJs
 date: '2019-06-03'
-gh-repo: daattali/beautiful-jekyll
+gh-repo: marcomelilli
 gh-badge:
-  - star
-  - fork
   - follow
 tags:
   - encryption
