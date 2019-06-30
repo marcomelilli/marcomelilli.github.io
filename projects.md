@@ -5,7 +5,7 @@ This is the list of projects I developed in my free time:
 ##  Big Bench App
 I'm the co-creator of [Big Bench App](https://big-bench.com) a mobile app for **IOS** and **Android** that helps users to locate the big benches in the world. I worked on the mobile app and on the backend, and it was a great experience.
 
-![bigbenchapp.png]({{site.baseurl}}/img/bigbenchapp.png =250px)
+![bigbenchapp.png]({{site.baseurl}}/img/bigbenchapp.png) 
 
 Try the app from the stores or follow our project on [facebook](https://www.facebook.com/bigbenchapp) and [instagram](https://www.instagram.com/bigbenchapp/)
 
