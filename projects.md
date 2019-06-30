@@ -5,9 +5,7 @@ This is the list of projects I developed in my free time:
 ##  Big Bench App
 I'm the co-creator of [Big Bench App](https://big-bench.com) a mobile app for **IOS** and **Android** that helps users to locate the big benches in the world. I worked on the mobile app and on the backend, and it was a great experience.
 
-![bigbenchapp.png]({{site.baseurl}}/img/bigbenchapp.png) 
-
-Try the app from the stores or follow our project on [facebook](https://www.facebook.com/bigbenchapp) and [instagram](https://www.instagram.com/bigbenchapp/)
+<img style="float: left;" src="{{site.baseurl}}/img/bigbenchapp.png"> Try the app from the stores or follow our project on [facebook](https://www.facebook.com/bigbenchapp) and [instagram](https://www.instagram.com/bigbenchapp/)
 
 <br><br>
 
@@ -23,7 +21,7 @@ It can be used as base of a nestjs project: it implements API for login/registra
 ##  ATM Bot Notifier
 I made a little **telegambot** that updates you every morning with the news of the ATM metro and during the day notifies you about status changes. 
 
-![atm_channel.png]({{site.baseurl}}/img/atm_channel.jpg)
+![atm_channel.png]({{site.baseurl}}/img/atm_channel.png)
 
 It could be useful to know in real time if the subway is suspended and quickly look for alternatives. Link to the [channel](https://t.me/metro_atm)    
 
