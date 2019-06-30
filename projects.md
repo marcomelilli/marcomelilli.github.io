@@ -9,28 +9,25 @@ I'm the co-creator of [Big Bench App](https://big-bench.com) a mobile app for **
 
 Try the app from the stores or follow our project on [facebook](https://www.facebook.com/bigbenchapp) and [instagram](https://www.instagram.com/bigbenchapp/)
 <div style="clear:both"></div>
-  
 <br><br>
 
 ##  Nestjs email authentication
 
-<img style="float: left; height: 300px; margin-right: 20px;" src="{{site.baseurl}}/img/nestjs.png"/> 
+<img style="float: left; height: 200px; margin-right: 20px;" src="{{site.baseurl}}/img/nestjs.png"/> 
 This project is an example of implementation of a user **email authentication** with [Nestjs](https://nestjs.com/) v5.0, [MongoDB](https://www.mongodb.com/) and [PassportJs](http://www.passportjs.org)
 
 It can be used as base of a nestjs project: it implements API for login/registration of a user in a database and features of **email verification**, **forgotten password**, **reset password**, **update profile** and **settings**. Link to the [project](https://github.com/marcomelilli/nestjs-email-authentication)    
 <div style="clear:both"></div>
-  
 <br><br>
 
 ##  ATM Bot Notifier
 
-<img style="float: left; height: 300px; margin-right: 20px;" src="{{site.baseurl}}/img/atm_channel.jpg"/> 
+<img style="float: left; height: 200px; margin-right: 20px;" src="{{site.baseurl}}/img/atm_channel.jpg"/> 
 
 I made a little **telegambot** that updates you every morning with the news of the ATM metro and during the day notifies you about status changes. 
 
 It could be useful to know in real time if the subway is suspended and quickly look for alternatives. Link to the [channel](https://t.me/metro_atm)    
 <div style="clear:both"></div>
-
 <br><br>
 
 ## HomeAssistant
