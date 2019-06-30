@@ -9,12 +9,23 @@ I'm the co-creator of [Big Bench App](https://big-bench.com) a mobile app for **
 
 Try the app from the stores or follow our project on [facebook](https://www.facebook.com/bigbenchapp) and [instagram](https://www.instagram.com/bigbenchapp/)
 
+<br><br>
+
 ##  Nestjs email authentication
 This project is an example of implementation of a user **email authentication** with [Nestjs](https://nestjs.com/) v5.0, [MongoDB](https://www.mongodb.com/) and [PassportJs](http://www.passportjs.org)
 
 ![nestjs.png]({{site.baseurl}}/img/nestjs.png)
 
 It can be used as base of a nestjs project: it implements API for login/registration of a user in a database and features of **email verification**, **forgotten password**, **reset password**, **update profile** and **settings**. Link to the [project](https://github.com/marcomelilli/nestjs-email-authentication)    
+
+<br><br>
+
+##  ATM Bot Notifier
+I made a little **telegambot** that updates you every morning with the news of the ATM metro and during the day notifies you about status changes. 
+
+![atm_channel.png]({{site.baseurl}}/img/atm_channel.png)
+
+It could be useful to know in real time if the subway is suspended and quickly look for alternatives. Link to the [channel](https://t.me/metro_atm)    
 
 <br><br>
 
