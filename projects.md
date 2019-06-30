@@ -23,7 +23,7 @@ It can be used as base of a nestjs project: it implements API for login/registra
 ##  ATM Bot Notifier
 I made a little **telegambot** that updates you every morning with the news of the ATM metro and during the day notifies you about status changes. 
 
-![atm_channel.png]({{site.baseurl}}/img/atm_channel.png)
+![atm_channel.png]({{site.baseurl}}/img/atm_channel.jpg)
 
 It could be useful to know in real time if the subway is suspended and quickly look for alternatives. Link to the [channel](https://t.me/metro_atm)    
 
