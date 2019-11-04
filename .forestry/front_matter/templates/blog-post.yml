@@ -26,3 +26,6 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: published
+  type: boolean
+  label: published
