@@ -29,3 +29,5 @@ fields:
 - name: published
   type: boolean
   label: published
+pages:
+- _posts/how to upload images with airtable api.md
