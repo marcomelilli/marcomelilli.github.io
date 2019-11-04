@@ -1,11 +1,11 @@
 ---
-layout: ''
+layout: post
 title: ''
 subtitle: ''
 gh-repo: ''
 gh-badge: []
 tags: []
-comments: false
+comments: true
 date: 
 published: false
 
