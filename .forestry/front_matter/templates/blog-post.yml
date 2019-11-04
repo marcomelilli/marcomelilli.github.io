@@ -11,9 +11,6 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: gh-repo
   label: gh-repo
@@ -26,3 +23,6 @@ fields:
 - type: boolean
   name: comments
   label: comments
+- type: datetime
+  name: date
+  label: date
