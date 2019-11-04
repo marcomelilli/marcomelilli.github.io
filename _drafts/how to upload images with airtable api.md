@@ -1,9 +1,10 @@
 ---
 layout: post
-title: ''
+title: How to upload images with airtable api
 subtitle: ''
-gh-repo: ''
-gh-badge: []
+gh-repo: marcomelilli
+gh-badge:
+- follow
 tags: []
 comments: true
 date: 
