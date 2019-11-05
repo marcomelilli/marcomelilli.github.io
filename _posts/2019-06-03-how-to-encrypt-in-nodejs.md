@@ -49,6 +49,8 @@ Install:
 
     npm install crypto
 
+To encrypt and decrypt a string:
+    
     var crypto = require('crypto');
     
     var cypherKey = "mySecretKey";
