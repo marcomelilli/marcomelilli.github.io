@@ -1,17 +1,17 @@
 ---
 layout: post
-published: true
 title: How to encrypt strings in nodejs
 subtitle: Two ways to encrypt strings in nodeJs
-date: '2019-06-03'
+date: 2019-06-03
 gh-repo: marcomelilli
 gh-badge:
-  - follow
+- follow
 tags:
-  - encryption
-  - security
-  - hash
+- encryption
+- security
+- hash
 comments: true
+
 ---
 In my projects I essentially found useful two ways to encrypt strings: **hash functions** one-way and one-way and **encryption-decryption** two-way :
 
@@ -21,7 +21,7 @@ Hash functions are essentials for store encrypted password, and the best library
 
 Install:
 
-	npm install bcrypt
+    npm install bcrypt
 
 To hash a password:
 
@@ -29,34 +29,39 @@ To hash a password:
     const saltRounds = 10;
     const myPlaintextPassword = 'myPassword';
     
-	bcrypt.hash(myPlaintextPassword, saltRounds).then(function(hash) {
-		// Store hash in your password DB.
-	});
+    bcrypt.hash(myPlaintextPassword, saltRounds).then(function(hash) {
+    	// Store hash in your password DB.
+    });
 
 At user login to compare password with the one stored in the db you can use:
 
     bcrypt.compare(plaintextPassToCheck, hashStoredInDB).then(function(res) {
       // res == true/false
     });
-  
-More info: [github.com/kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js)
 
+More info: [github.com/kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js)
 
 ## 2. Simple Encryption and Decryption
 
 In other scenarios I needed to crypt strings in order to hide texts  to users but in a way that permits me to decrypt and retrieve the original content. In this case a fast tool is **Crypto**.
 
-    var crypto = require('crypto');
+Install:
 
+    npm install crypto
+
+    var crypto = require('crypto');
+    
+    var cypherKey = "mySecretKey";
+    
     function encrypt(text){
-      var cipher = crypto.createCipher('aes-256-cbc','myPlainText')
+      var cipher = crypto.createCipher('aes-256-cbc', cypherKey)
       var crypted = cipher.update(text,'utf8','hex')
       crypted += cipher.final('hex');
       return crypted; //94grt976c099df25794bf9ccb85bea72
     }
-
+    
     function decrypt(text){
-      var decipher = crypto.createDecipher('aes-256-cbc','d6F3Efeq')
+      var decipher = crypto.createDecipher('aes-256-cbc',cypherKey)
       var dec = decipher.update(text,'hex','utf8')
       dec += decipher.final('utf8');
       return dec; //myPlainText
