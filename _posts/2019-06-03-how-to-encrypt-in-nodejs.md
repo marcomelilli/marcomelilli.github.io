@@ -13,7 +13,7 @@ tags:
 comments: true
 
 ---
-In my projects I essentially found useful two ways to encrypt strings: **hash functions** one-way and one-way and **encryption-decryption** two-way :
+In my projects I essentially find useful two ways to encrypt strings: **hash functions** one-way and one-way and **encryption-decryption** two-way :
 
 ## 1. Hash functions with Bcrypt
 
@@ -43,14 +43,14 @@ More info: [github.com/kelektiv/node.bcrypt.js](https://github.com/kelektiv/node
 
 ## 2. Simple Encryption and Decryption
 
-In other scenarios I needed to crypt strings in order to hide texts  to users but in a way that permits me to decrypt and retrieve the original content. In this case a fast tool is **Crypto**.
+In other scenarios I needed to crypt strings in order to hide texts  to users but in a way that allows me to decrypt and retrieve the original content. In this case a fast tool is **Crypto**.
 
 Install:
 
     npm install crypto
 
 To encrypt and decrypt a string:
-    
+
     var crypto = require('crypto');
     
     var cypherKey = "mySecretKey";
