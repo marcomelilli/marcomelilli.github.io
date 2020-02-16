@@ -9,7 +9,7 @@ tags:
   - debian
   - security
   - vps
-comments: true
+comments: false
 published: true
 date: '2019-04-03'
 ---
