@@ -10,7 +10,7 @@ tags:
 - encryption
 - security
 - hash
-comments: true
+comments: false
 
 ---
 In my projects I essentially find useful two ways to encrypt strings: **hash functions** one-way and one-way and **encryption-decryption** two-way :
