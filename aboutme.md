@@ -2,13 +2,12 @@
 layout: page
 title: About me
 subtitle: 
-published: true
----
 
+---
 My name is **Marco Melilli** and I'm a web and mobile **developer** with 4+ years of experience
 
 <span style="font-size: 25px; margin-right: 15px;" class="fa fa-briefcase"></span>
-I'm currently a **web developer** and Technology Consultant at **HPE** in Italy. I previously worked on **Avanade** as hybrid mobile app developer, and web developer.
+I'm currently a **web developer** and Technology Consultant at **HPE** in Italy. I previously worked on **Avanade** as hybrid mobile app developer.
 
 <span style="font-size: 25px; margin-right: 15px;" class="fa fa-rocket"></span>
 I enjoy **learning** and studying all the new technologies, this is the reason why I'm always working on many little projects like **mobile apps** and **home automation**.
